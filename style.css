@@ -1,0 +1,48 @@
+.container {
+    margin-bottom: 20px;
+}
+
+.myCarousel {
+    /* background-image: url(./img/bg-1.png ); */
+    background-image: url(./img/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+.buy-btn {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 20px;
+    margin-bottom: 15px;
+}
+
+.see-all {
+    color: gold;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-title {
+    font-weight: bold;
+    text-align: center;
+}
+.card-footer {
+    border: none;
+    background-color: white;
+}
+
+.price {
+    text-align: center;
+    font-weight: bold;
+}
+
+.img-w {
+    width: 200px;
+    height: 200px;
+    box-shadow: 5px 5px 10px lightgray;
+    
+}
